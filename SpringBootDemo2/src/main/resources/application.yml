@@ -1,0 +1,4 @@
+com:
+  ljh:
+    kkk: 你好我好大家好
+    yyy: ${random.value} # 随机字符串
