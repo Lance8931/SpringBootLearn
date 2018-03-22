@@ -6,7 +6,7 @@
 	<groupId>com.ljh</groupId>
 	<artifactId>ljh</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>war</packaging>
+	<packaging>jar</packaging>
 
 	<name>SpringBootDemo1</name>
 	<description>Spring Boot快速入门 http://blog.didispace.com/spring-boot-learning-1/</description>
