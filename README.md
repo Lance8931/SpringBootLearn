@@ -12,3 +12,4 @@
 - [ ] websocket
 - [ ] mencached
 - [ ] HBase
+/play guarantee
