@@ -12,6 +12,7 @@
 - [ ] websocket
 - [ ] mencached
 - [ ] HBase
+- [ ] druid特性
 
 
 :+1:
