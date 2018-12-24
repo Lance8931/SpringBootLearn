@@ -1,6 +1,8 @@
 # SpringBootLearn
 ## 待办事项
-- [ ] 重新上传没有加密过的代码
+- [x] 重新上传没有加密过的代码 
+
+- [x] Finish my changes
 
 ## 新项目
 - [ ] Springboot 2.0.X
@@ -13,8 +15,3 @@
 - [ ] mencached
 - [ ] HBase
 - [ ] druid特性
-
-
-:+1:
-
-/play guarantee
